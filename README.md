@@ -1,10 +1,10 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+## EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
+## APPARATUS REQUIRED:
 
 S. No.
 Name of the apparatus	
@@ -20,18 +20,18 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
+## PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
 •  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
+### switch2.
 •  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
 •	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
 •  Another end of lamp holder is connected to neutral line.
@@ -39,12 +39,22 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+## Direct connection and Cross connection:
+
+## CIRCUIT DIAGRAM and TABULATION:
 	
-Cross connection: CIRCUIT DIAGRAM:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/489fec77-91e2-4574-b9ab-17676e3ab61e" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b152b34-090d-40f4-b497-370da5a78541" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9df0145d-5a90-4ea8-b2e4-489fbb2754a7" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b63a0dc1-6a6b-42f2-affe-1ed130866574" />
 
-Tabulation:2
+## Output
 
-RESULT:
+![WhatsApp Image 2025-11-06 at 10 48 30_74bbedd5](https://github.com/user-attachments/assets/8931fff3-38e3-4806-ab67-62c18487da6b)
+
+<img width="1067" height="649" alt="Screenshot_2025-11-06_104546 1" src="https://github.com/user-attachments/assets/94cfd2c0-21a4-430c-81d5-bd5bdf83286f" />
+
+
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
