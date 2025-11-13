@@ -39,20 +39,23 @@ Quantity
 •  Circuit is tested for all possible combination of switch positions.
 
 
-## Direct connection and Cross connection:
+## CIRCUIT DIAGRAM: 
 
-## CIRCUIT DIAGRAM and TABULATION:
-	
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/489fec77-91e2-4574-b9ab-17676e3ab61e" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b152b34-090d-40f4-b497-370da5a78541" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9df0145d-5a90-4ea8-b2e4-489fbb2754a7" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b63a0dc1-6a6b-42f2-affe-1ed130866574" />
+### a)SPDT(XNOR):
 
-## Output
+<img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
 
-![WhatsApp Image 2025-11-06 at 10 48 30_74bbedd5](https://github.com/user-attachments/assets/8931fff3-38e3-4806-ab67-62c18487da6b)
 
-<img width="1067" height="649" alt="Screenshot_2025-11-06_104546 1" src="https://github.com/user-attachments/assets/94cfd2c0-21a4-430c-81d5-bd5bdf83286f" />
+### b)SPDT(XOR):
+
+<img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
+
+
+### a) SPDT(XNOR):
+![WhatsApp Image 2025-10-04 at 1 22 14 PM](https://github.com/user-attachments/assets/0e4add3c-b1f3-4093-8937-5a8a30a4e9f3)
+
+### b) SPDT(XOR):
+![WhatsApp Image 2025-10-04 at 1 22 15 PM](https://github.com/user-attachments/assets/b7c006eb-d4c8-444c-8343-b761649c6f00)
 
 
 
